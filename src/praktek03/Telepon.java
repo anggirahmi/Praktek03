@@ -1,6 +1,6 @@
 package praktek03;
 
-public class telepon {
+public class Telepon {
     String merk;
     String warna;
     double harga;
